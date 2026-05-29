@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecave",
+        "uuid": 16666820,
+        "checksum": "8lu6um"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
